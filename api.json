@@ -1,0 +1,22 @@
+{
+  "Products": [
+    {
+      "Name": "Coxinha",
+      "Description": "Coxinha de frango com catupiry",
+      "Price": "5.50",
+      "img": "https://panattos.com.br/uploads/produtos/2017/03/coxinha-de-frango-com-requeijao-mini-congelada.jpg"
+    },
+    {
+      "Name": "Coca-cola",
+      "Description": "Coca-Cola lata 350ml",
+      "Price": "5.50",
+      "img": "https://riomarrecife.com.br/recife/2020/01/CIA-130.png"
+    },
+    {
+      "Name": "Misto quente",
+      "Description": "Misto quente de presunto e queijo",
+      "Price": "7.50",
+      "img": "https://www.montarumnegocio.com/wp-content/uploads/2017/05/Como-fazer-misto-quente-para-vender.jpg"
+    }
+  ]
+}

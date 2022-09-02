@@ -1,0 +1,26 @@
+:root {
+  --primary: #00B37E;
+  --background: rgb(228 228 231);
+  --text: #FFF;
+  --caption: #8D8D99;
+  --gray: #E1E1E6;
+  --background-light: rgba(255, 255, 255, 0.05);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--background);
+
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font-family: 'Poppins', sans-serif;
+  cursor: pointer;
+}
